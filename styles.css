@@ -31,6 +31,12 @@ body {
     margin: 30px auto;
 }
 
+@media (max-width: 768px) {
+  .scoreboard {
+    zoom: 0.8; 
+  }
+}
+
 .scorevalor{
     background-color: rgba(116, 59, 187, 0.8);
     height: 90px;
