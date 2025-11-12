@@ -24,31 +24,6 @@ body {
     justify-content: space-around;
     background-color: #ba0c2f;
     border-radius: 20px;
-    flex-wrap: wrap;
-}
-
-@media (max-width: 768px) {
-    .scoreboard {
-        flex-direction: column;
-        width: 90%;
-        padding: 15px;
-    }
-
-    .scorevalor {
-        font-size: 40px;
-        height: 60px;
-    }
-
-    #logo {
-        width: 90px;
-        margin: 15px 0;
-    }
-
-    button {
-        font-size: 10px;
-        padding: 6px;
-        margin: 4px;
-    }
 }
 
 #logo{
