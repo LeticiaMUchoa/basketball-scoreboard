@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Basketball Scoreboard</title>
+        <link rel="stylesheet" href="/styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+        <script src="client.js" defer></script>
+    </head>
+    <body>
+        <div class="scoreboard">
+            <div class="score">
+                <h1>HOME</h1>
+                <p id="home-id" class="scorevalor">0</p>
+                <button onclick="one()">+1</button>
+                <button onclick="two()">+2</button>
+                <button onclick="three()">+3</button>
+            </div>
+            
+            <div id="resetbutton">
+                <img id="logo" src="img/logo.png">
+                <button id="reset-id" onclick="reset()">NEW GAME</button>
+            </div>
+            
+            <div class="score">
+                <h1>GUEST</h1>
+                <p id="guest-id" class="scorevalor">0</p>
+                <button onclick="oneguest()">+1</button>
+                <button onclick="twoguest()">+2</button>
+                <button onclick="threeguest()">+3</button>
+            </div>
+            
+        </div>
+    </body>
+</html>
