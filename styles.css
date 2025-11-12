@@ -28,7 +28,7 @@ body {
 
 #logo{
     width: 120px;
-    margin: 0 0 20px 15px;
+    margin: 30px auto;
 }
 
 .scorevalor{
@@ -44,10 +44,6 @@ body {
 #resetbutton{
     display: grid;
     align-items: center;
-}
-
-#logo{
-    margin-bottom: 30px;
 }
 
 button{
