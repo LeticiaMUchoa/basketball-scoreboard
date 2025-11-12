@@ -28,5 +28,5 @@ O objetivo do projeto é aprender manipulação do **DOM**, eventos e lógica de
 ---
 
 👩‍💻 Autora  
-Desenvolvido com 💜 por **Letícia Muchoa**  
-🔗 [GitHub](https://github.com/SEU-USUARIO)
+Desenvolvido com 💜 por **Letícia Uchoa**  
+🔗 [GitHub](https://github.com/leticiamuchoa)
