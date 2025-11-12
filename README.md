@@ -6,7 +6,7 @@ O objetivo do projeto é aprender manipulação do **DOM**, eventos e lógica de
 ---
 
 🖼️ Demonstração  
-🔗 [Acesse o projeto no Netlify](https://gamesboard.netlify.app)
+🔗 [Acesse o projeto no Vercel](https://basketball-scoreboard-jet.vercel.app/)
 
 ---
 
