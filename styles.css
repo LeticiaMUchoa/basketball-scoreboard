@@ -38,7 +38,9 @@ body {
 }
 
 .scorevalor{
-    background-color: rgba(116, 59, 187, 0.8);
+    background-image: url("img/fundo.png");
+    background-position: center;
+    background-size: 50vh;
     height: 90px;
     font-size: 70px;
     margin: 50px auto;
